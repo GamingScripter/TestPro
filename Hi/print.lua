@@ -1,1 +1,1 @@
-return(require(script.func))
+return(require(script.Parent.func))
